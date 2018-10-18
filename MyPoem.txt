@@ -3,5 +3,6 @@ Pink,
 Purple
 Green
 Red Orange,
+Yellow
 Blue
 These are color of my raibow
